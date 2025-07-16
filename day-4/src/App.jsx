@@ -1,4 +1,4 @@
-import Details from './components/Details'
+import Details from './Details'
 import React from 'react'
 import './App.css'
 
